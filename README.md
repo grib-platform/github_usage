@@ -1,2 +1,2 @@
-# github_usage
+# how-to
 Github Manual
